@@ -1,0 +1,5 @@
+print('Hello world')
+
+s = 4
+d = s + 5
+print(d)
